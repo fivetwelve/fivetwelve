@@ -3,6 +3,7 @@
 - 🧰 I’ve embraced React & GraphQL, and built complex sites with Gatsby.
 - 🌱 I'm keen to learn Next.js and growing my skills with TypeScript and TDD.
 - 💞️ I’m always looking for new opportunities.
+- 👨‍💻 If you're recruiting and looking for more code samples I can share a private repo. Contact me.
 - 💻 Visit my personal site at https://victorchan.dev.
 - 📫 I can be reached at hello AT fivetwelve.ca.
 
