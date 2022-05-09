@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Victor Chan AKA @fivetwelve
+- 👋 Hi, I’m Victor Chan.
 - 👀 I’m a Front End developer, been at it for about 2 decades.
-- 🌱 I’ve embraced React and GraphQL; I've built Gatsby sites but am keen to use Next.js and growing my skills with TypeScript and TDD.
+- 🧰 I’ve embraced React & GraphQL, and built complex sites with Gatsby.
+- 🌱 I'm keen to learn Next.js and growing my skills with TypeScript and TDD.
 - 💞️ I’m always looking for new opportunities.
-- 📫 I can be reached at hello AT fivetwelve.ca. Visit my personal site at https://victorchan.dev
+- 💻 Visit my personal site at https://victorchan.dev.
+- 📫 I can be reached at hello AT fivetwelve.ca.
 
 <!---
 fivetwelve/fivetwelve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
